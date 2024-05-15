@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Html, Css, js e Python<br>estou procurando um estagio
+Sou estudante de Html, Css, js e Python<br>estou a procurando de estagio
 
 
 ## 🌐 Socials:
