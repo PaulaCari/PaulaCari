@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Html, Css, js e Python<br>Recién finalizado un curso en el área de [área de Programação]  con gran entusiasmo y potencial, busco una oportunidad de carrera en una empresa innovadora donde pueda aprender, crecer y contribuir significativamente.**
+Sou estudante de Html, Css, js e Python<br>Recién finalizado un curso en el área de Programação  con gran entusiasmo y potencial, busco una oportunidad de carrera en una empresa innovadora donde pueda aprender, crecer y contribuir significativamente.**
 
 
 ## 🌐 Socials:
