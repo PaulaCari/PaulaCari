@@ -1,5 +1,6 @@
 # 💫 About Me:
-Desenvolvimento web: HTML, CSS, JavaScript, Linguagens de programação: Python<br>Recién finalizado un curso en el área de Programação  con gran entusiasmo y potencial, busco una oportunidad de carrera en una empresa innovadora donde pueda aprender, crecer y contribuir significativamente.
+Desenvolvimento web: HTML, CSS, JavaScript, Linguagens de programação: Python<br>
+Recém-formado em Programação, com grande entusiasmo e potencial, busco uma oportunidade de carreira em uma empresa inovadora onde possa aprender, crescer e contribuir significativamente.
 
 
 ## 🌐 Socials:
