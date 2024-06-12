@@ -1,10 +1,13 @@
 # 💫 About Me:
-Desenvolvimento web: HTML, CSS, JavaScript, Linguagens de programação: Python<br>
-Recém-formada em Programação, busco uma oportunidade desafiadora em uma empresa inovadora onde possa aprender, crescer e contribuir significativamente.
+Em busca do conhecimento para me tornar uma desenvolvedora Full-Stack!
+        Aprendendo HTML, CSS, JavaScript e Python.
+        Sem experiência profissional, mas com grande paixão.
+        Dedicação e autodidatismo me impulsionam a alcançar meu objetivo.
+        "Acredito que a tecnologia tem o poder de transformar vidas e criar soluções inovadoras para os mais diversos desafios." 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ma-paula-33268617b/) 
+
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
